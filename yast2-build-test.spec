@@ -1,8 +1,9 @@
 # YAST2 Testing Package
 # Michal Svec <msvec@suse.cz>
+# $Id$
 #
 # norootforbuild
-# neededforbuild yast2-all-packages yast2-devel-packages cracklib perl-Digest-SHA1 perl-gettext perl-OPENSSL perl-X500-DN perl-Date-Calc perl-URI dosfstools perl-Parse-RecDescent perl-Archive-Zip perl-Crypt-SmbHash perl-Compress-Zlib perl-NetxAP
+# neededforbuild yast2-all-packages yast2-devel-packages cracklib perl-Digest-SHA1 perl-gettext perl-OPENSSL perl-X500-DN perl-Date-Calc perl-URI dosfstools perl-Parse-RecDescent perl-Archive-Zip perl-Crypt-SmbHash perl-Compress-Zlib perl-NetxAP perl-Digest-HMAC
 
 Name:		yast2-build-test
 Version:	2.10.0
