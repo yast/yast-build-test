@@ -1,0 +1,14 @@
+-------------------------------------------------------------------
+Tue Jun 15 11:28:54 CEST 2004 - msvec@suse.cz
+
+- use yast2-all-packages abuild macro
+- check everything and report final result at the end
+- 2.10.0
+
+-------------------------------------------------------------------
+Wed Jun  9 10:21:48 CEST 2004 - msvec@suse.cz
+
+- initial version of yast2 build test
+- ensure syntax correctness of all yast2 clients
+- internal package
+- 2.9.0
