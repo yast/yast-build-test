@@ -32,7 +32,7 @@ done
 error="Build Test FAILED, look at this URL for detailed information:
 http://w2d.suse.de/abuildstat/failed/$RPM_ARCH/yast2-build-test##"
 
-# Message is confusing when building localy ...
+# Message is confusing when building locally ...
 error=""
 
 # Show result
