@@ -1,4 +1,9 @@
 -------------------------------------------------------------------
+Mon Jul 11 18:02:00 CEST 2005 - jsrain@suse.cz
+
+- adapted nfb for libsax
+
+-------------------------------------------------------------------
 Tue Jun 15 11:28:54 CEST 2004 - msvec@suse.cz
 
 - use yast2-all-packages abuild macro
