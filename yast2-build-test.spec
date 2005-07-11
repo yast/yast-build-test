@@ -7,7 +7,7 @@
 # neededforbuild yast2-all-packages yast2-devel-packages cracklib dosfstools perl-Digest-SHA1 perl-gettext perl-OPENSSL perl-X500-DN perl-Date-Calc perl-URI perl-Parse-RecDescent perl-Archive-Zip perl-Crypt-SmbHash perl-Compress-Zlib perl-NetxAP perl-Digest-HMAC sax2-libsax-perl sax2-libsax qt3 xorg-x11-libs freetype2 fontconfig hwinfo expat sysfsutils dbus-1 hal
 
 Name:		yast2-build-test
-Version:	2.10.0
+Version:	2.12.0
 Release:	0
 License:	GPL
 Group:		System/YaST
