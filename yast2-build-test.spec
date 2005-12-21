@@ -4,10 +4,10 @@
 # $Id$
 #
 # norootforbuild
-# neededforbuild yast2-all-packages yast2-devel-packages cracklib dosfstools perl-Digest-SHA1 perl-gettext perl-X500-DN perl-Date-Calc perl-URI perl-Parse-RecDescent perl-Archive-Zip perl-Crypt-SmbHash perl-Compress-Zlib perl-NetxAP perl-Digest-HMAC qt3 xorg-x11-libs freetype2 fontconfig hwinfo expat sysfsutils dbus-1 hal yast2-storage-lib limal-bootloader perl-Bootloader limal-devel-packages limal-perl perl-Bootloader perl-Config-IniFiles pcre
+# neededforbuild yast2-all-packages yast2-devel-packages cracklib dosfstools perl-Digest-SHA1 perl-gettext perl-X500-DN perl-Date-Calc perl-URI perl-Parse-RecDescent perl-Archive-Zip perl-Crypt-SmbHash perl-Compress-Zlib perl-NetxAP perl-Digest-HMAC qt3 xorg-x11-libs freetype2 fontconfig hwinfo expat sysfsutils dbus-1 hal yast2-storage-lib limal-bootloader perl-Bootloader limal-devel-packages limal-perl perl-Bootloader perl-Config-IniFiles pcre limal-ca-mgm-perl limal-ca-mgm sax2-libsax sax2-libsax-perl
 
 Name:		yast2-build-test
-Version:	2.13.0
+Version:	2.13.2
 Release:	0
 License:	GPL
 Group:		System/YaST
