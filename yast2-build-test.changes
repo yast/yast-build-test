@@ -1,4 +1,35 @@
 -------------------------------------------------------------------
+Fri Apr 21 13:21:17 CEST 2006 - visnov@suse.cz
+
+- added yast2-online-update back 
+
+-------------------------------------------------------------------
+Mon Mar 27 15:43:52 CEST 2006 - ro@suse.de
+
+- no yast2-x11 on s390,s390x 
+
+-------------------------------------------------------------------
+Mon Mar 27 01:17:35 CEST 2006 - ro@suse.de
+
+- fix BuildRequires for ppc64,s390,s390x 
+
+-------------------------------------------------------------------
+Fri Mar 24 11:34:47 CET 2006 - ro@suse.de
+
+- removed yast2-pervasive_postgres from BuildRequires 
+
+-------------------------------------------------------------------
+Fri Feb 10 09:28:48 CET 2006 - lrupp@suse.de
+
+- quick Beta hack: deleted macros from BuildRequires and insert 
+  packages manually for build
+
+-------------------------------------------------------------------
+Wed Jan 25 21:43:34 CET 2006 - mls@suse.de
+
+- converted neededforbuild to BuildRequires
+
+-------------------------------------------------------------------
 Wed Dec 21 13:46:26 CET 2005 - visnov@suse.cz
 
 - fixed nfb for new yast2-ca-mgmt and yast2-x11
