@@ -1,4 +1,9 @@
 -------------------------------------------------------------------
+Thu Aug 17 13:15:16 CEST 2006 - jsrain@suse.cz
+
+- removed yast2-trans-sl_SI from neededforbuild
+
+-------------------------------------------------------------------
 Fri Apr 21 13:21:17 CEST 2006 - visnov@suse.cz
 
 - added yast2-online-update back 
