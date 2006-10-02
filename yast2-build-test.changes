@@ -1,4 +1,9 @@
 -------------------------------------------------------------------
+Mon Oct  2 13:21:15 CEST 2006 - jsrain@suse.cz
+
+- renamed yast2-trans-el_GR to yast2-trans-el
+
+-------------------------------------------------------------------
 Fri Apr 21 13:21:17 CEST 2006 - visnov@suse.cz
 
 - added yast2-online-update back 
