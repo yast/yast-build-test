@@ -1,4 +1,10 @@
 -------------------------------------------------------------------
+Wed Jan 24 17:24:41 CET 2007 - aosthof@suse.de
+
+- removed yast2-bootfloppy from spec file, because this module
+  doesn't exist any longer 
+
+-------------------------------------------------------------------
 Mon Oct  2 13:21:15 CEST 2006 - jsrain@suse.cz
 
 - renamed yast2-trans-el_GR to yast2-trans-el
