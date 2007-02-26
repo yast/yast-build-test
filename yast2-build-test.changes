@@ -1,4 +1,9 @@
 -------------------------------------------------------------------
+Mon Feb 26 12:39:18 CET 2007 - locilka@suse.cz
+
+- added yast2-add-on
+
+-------------------------------------------------------------------
 Wed Jan 24 19:39:19 CET 2007 - aosthof@suse.de
 
 - adapt spec file so that the package yast2-vm will only be
