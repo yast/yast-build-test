@@ -1,4 +1,11 @@
 -------------------------------------------------------------------
+Mon Feb 26 10:01:55 CET 2007 - locilka@suse.cz
+
+- added yast2-add-on
+- yast2-trans-sl_SI replaced with yast2-trans-sl
+- yast2-theme-SuSELinux replaced with yast2-theme-openSUSE
+
+-------------------------------------------------------------------
 Wed Jan 24 17:24:41 CET 2007 - aosthof@suse.de
 
 - removed yast2-bootfloppy from spec file, because this module
