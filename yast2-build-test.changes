@@ -1,9 +1,15 @@
 -------------------------------------------------------------------
-Mon Feb 26 10:01:55 CET 2007 - locilka@suse.cz
+Wed Jan 24 19:39:19 CET 2007 - aosthof@suse.de
 
-- added yast2-add-on
-- yast2-trans-sl_SI replaced with yast2-trans-sl
-- yast2-theme-SuSELinux replaced with yast2-theme-openSUSE
+- adapt spec file so that the package yast2-vm will only be
+  required by i386 and x86_64 
+
+-------------------------------------------------------------------
+Wed Jan 24 18:23:57 CET 2007 - aosthof@suse.de
+
+- yast2-trans-sl_SI has been renamed to yast2-trans-sl and 
+  yast2-theme-SuSELinux has been renamed to yast2-theme-openSUSE in
+  spec file
 
 -------------------------------------------------------------------
 Wed Jan 24 17:24:41 CET 2007 - aosthof@suse.de
