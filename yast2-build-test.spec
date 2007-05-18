@@ -1,5 +1,4 @@
 #
-#
 # spec file for package yast2-build-test (Version 2.13.2)
 #
 # Copyright (c) 2007 SUSE LINUX Products GmbH, Nuernberg, Germany.
