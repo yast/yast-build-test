@@ -1,4 +1,9 @@
 -------------------------------------------------------------------
+Thu Jul 26 07:52:28 CEST 2007 - jsrain@suse.cz
+
+- yast2-devel -> yast2-devel-doc, added yast2-ftp-server
+
+-------------------------------------------------------------------
 Mon Apr 16 11:24:36 CEST 2007 - jsrain@suse.cz
 
 - removed yast2-powertweak
