@@ -1,4 +1,10 @@
 -------------------------------------------------------------------
+Tue Aug  7 08:20:56 CEST 2007 - jsrain@suse.cz
+
+- removed yast2-power-management, added yast2-kdump and
+  yast2-metapackage-handler
+
+-------------------------------------------------------------------
 Thu Jul 26 07:52:28 CEST 2007 - jsrain@suse.cz
 
 - yast2-devel -> yast2-devel-doc, added yast2-ftp-server
