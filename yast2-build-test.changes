@@ -1,4 +1,10 @@
 -------------------------------------------------------------------
+Mon Aug 13 11:27:19 CEST 2007 - jsuchome@suse.cz
+
+- cd-creator is product creator now 
+- added yast2-add-on-creator, yast2-fingerprint-reader
+
+-------------------------------------------------------------------
 Thu Aug  9 19:49:16 CEST 2007 - jsrain@suse.cz
 
 - in addition to current test also check presence of cmdline
