@@ -1,4 +1,25 @@
 -------------------------------------------------------------------
+Thu Jan 31 10:29:11 CET 2008 - coolo@suse.de
+
+- buildrequire icewm-lite to solve choice in abuild
+
+-------------------------------------------------------------------
+Mon Jan 21 16:29:46 CET 2008 - ro@suse.de
+
+- use buildignore for tomcat as in yast2-schema 
+
+-------------------------------------------------------------------
+Thu Dec 20 16:37:13 CET 2007 - ro@suse.de
+
+- removed yast2-bluetooth from buildreq 
+
+-------------------------------------------------------------------
+Wed Nov 14 13:03:27 CET 2007 - jsrain@suse.cz
+
+- adapted timeouts for commandline checks to avoid void build
+  failuers
+
+-------------------------------------------------------------------
 Mon Aug 13 11:27:19 CEST 2007 - jsuchome@suse.cz
 
 - cd-creator is product creator now 
