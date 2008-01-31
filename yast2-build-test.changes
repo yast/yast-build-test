@@ -1,9 +1,4 @@
 -------------------------------------------------------------------
-Thu Jan 31 10:29:11 CET 2008 - coolo@suse.de
-
-- buildrequire icewm-lite to solve choice in abuild
-
--------------------------------------------------------------------
 Mon Jan 21 16:29:46 CET 2008 - ro@suse.de
 
 - use buildignore for tomcat as in yast2-schema 
