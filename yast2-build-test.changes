@@ -1,4 +1,9 @@
 -------------------------------------------------------------------
+Sat Mar 29 08:16:36 CET 2008 - coolo@suse.de
+
+- fix build
+
+-------------------------------------------------------------------
 Mon Jan 21 16:29:46 CET 2008 - ro@suse.de
 
 - use buildignore for tomcat as in yast2-schema 
