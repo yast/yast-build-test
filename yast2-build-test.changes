@@ -1,4 +1,10 @@
 -------------------------------------------------------------------
+Thu Jul 31 12:30:35 CEST 2008 - ro@suse.de
+
+- remove dropped packages from buildreq:
+  yast2-cim, yast2-storage-evms 
+
+-------------------------------------------------------------------
 Sat Mar 29 08:16:36 CET 2008 - coolo@suse.de
 
 - fix build
