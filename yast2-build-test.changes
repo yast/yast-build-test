@@ -1,4 +1,9 @@
 -------------------------------------------------------------------
+Wed Jun  2 14:08:16 CEST 2010 - jsrain@suse.cz
+
+- remove yast2-repair from buildreq
+
+-------------------------------------------------------------------
 Thu Jul 31 12:30:35 CEST 2008 - ro@suse.de
 
 - remove dropped packages from buildreq:
