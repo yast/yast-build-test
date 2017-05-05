@@ -30,10 +30,6 @@ Summary:        YaST2 - Testing Package
 %description
 YaST2 - Testing Package
 
-Authors:
---------
-    Michal Svec <msvec@suse.cz>
-
 %prep
 %setup -c -T
 
